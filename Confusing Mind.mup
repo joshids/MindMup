@@ -1,0 +1,244 @@
+{
+  "title": "Confusing Mind",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Learning",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "ANTLR4",
+          "id": 12
+        },
+        "2": {
+          "title": "Eclipse",
+          "id": 13
+        },
+        "3": {
+          "title": "Java EE",
+          "id": 15
+        },
+        "4": {
+          "title": "Type Script",
+          "id": 16
+        },
+        "5": {
+          "title": "Atom",
+          "id": 17
+        },
+        "6": {
+          "title": "Node.JS",
+          "id": 18
+        }
+      }
+    },
+    "11": {
+      "title": "Online presence",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Blog",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Github",
+              "id": 22
+            },
+            "2": {
+              "title": "Domain Registration",
+              "id": 23
+            },
+            "3": {
+              "title": "Google Analytics",
+              "id": 24
+            },
+            "4": {
+              "title": "Google AdWords",
+              "id": 25
+            },
+            "5": {
+              "title": "Topics",
+              "id": 36,
+              "ideas": {
+                "8": {
+                  "title": "Technical",
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "ANTLR4",
+                      "id": 40,
+                      "attr": {
+                        "style": {}
+                      },
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "DevTools",
+                      "id": 43,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "JavaScript",
+                      "id": 42,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "AngularJS",
+                      "id": 41,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "NHibernate",
+                      "id": 39,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "6": {
+                      "title": "Design Patterns",
+                      "id": 38,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "7": {
+                      "title": "OOPs",
+                      "id": 37,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "8": {
+                      "title": "Architecture",
+                      "id": 56
+                    },
+                    "9": {
+                      "title": "SQL",
+                      "id": 57
+                    },
+                    "10": {
+                      "title": "Performance Tuning",
+                      "id": 58,
+                      "ideas": {
+                        "1": {
+                          "title": "SQL",
+                          "id": 59
+                        },
+                        "2": {
+                          "title": "C#",
+                          "id": 60,
+                          "ideas": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "9": {
+                  "title": "Non Technical",
+                  "id": 45,
+                  "ideas": {
+                    "1": {
+                      "title": "Travel",
+                      "id": 46,
+                      "ideas": {
+                        "1": {
+                          "title": "Photos",
+                          "id": 47
+                        },
+                        "2": {
+                          "title": "Diary",
+                          "id": 48
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Humor",
+                      "id": 51
+                    },
+                    "3": {
+                      "title": "Quotes",
+                      "id": 54,
+                      "ideas": {
+                        "1": {
+                          "title": "Ushir :)",
+                          "id": 55
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "StackOverflow",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "NHibernate",
+              "id": 32
+            },
+            "2": {
+              "title": "ANTLR4",
+              "id": 33
+            },
+            "3": {
+              "title": "AngularJS",
+              "id": 34
+            },
+            "4": {
+              "title": "SQL Optimization",
+              "id": 35
+            }
+          }
+        },
+        "3": {
+          "title": "Linked In",
+          "id": 28
+        },
+        "4": {
+          "title": "Open Source",
+          "id": 29,
+          "ideas": {
+            "1": {
+              "title": "GitHub",
+              "id": 30
+            }
+          }
+        }
+      }
+    },
+    "21": {
+      "title": "Earning",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Regular JOB",
+          "id": 7
+        },
+        "2": {
+          "title": "Free lance",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Programming",
+              "id": 10
+            },
+            "2": {
+              "title": "Training",
+              "id": 11
+            }
+          }
+        }
+      }
+    }
+  }
+}
