@@ -31,6 +31,10 @@
           "title": "Node.JS",
           "id": 18
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "11": {
@@ -176,6 +180,10 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "2": {
@@ -214,6 +222,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "21": {
@@ -238,6 +250,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     }
   }
