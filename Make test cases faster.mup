@@ -1,0 +1,65 @@
+{
+  "title": "Make test cases faster",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "List testcases with their timings",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Categorize as per timing",
+          "id": 7,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "3": {
+              "title": "Configure Cruise",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "Configure cruise to execute fast test cases with every commit",
+                  "id": 10,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Configure Cruse to execute slower test cases nightly",
+                  "id": 11,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Analyze test cases",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Why they are taking time",
+                  "id": 16
+                },
+                "2": {
+                  "title": "check for IoC",
+                  "id": 17
+                },
+                "3": {
+                  "title": "Check if DB can be decoupled",
+                  "id": 18,
+                  "ideas": {}
+                },
+                "4": {
+                  "title": "Prepare a plan for all test cases to be fast",
+                  "id": 22
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
