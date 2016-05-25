@@ -19,6 +19,20 @@
               "content": "Currently Slack.com and Slack applications use Web socket based communication. Web Sockets are not allowed on many corporate networks.&nbsp;<div>The new client should use xmlhttp so that it is allowed over corporate proxy.</div>"
             },
             "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "ReactJS",
+              "id": 4
+            },
+            "2": {
+              "title": "Slack API",
+              "id": 5
+            },
+            "3": {
+              "title": "ASP.NET MVC Web API?",
+              "id": 6
+            }
           }
         }
       }
