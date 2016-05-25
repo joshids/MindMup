@@ -1,0 +1,27 @@
+{
+  "title": "Project Ideas",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "ReactJS",
+      "id": 2,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Slack bot",
+          "id": 3,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "Currently Slack.com and Slack applications use Web socket based communication. Web Sockets are not allowed on many corporate networks.&nbsp;<div>The new client should use xmlhttp so that it is allowed over corporate proxy.</div>"
+            },
+            "style": {}
+          }
+        }
+      }
+    }
+  }
+}
