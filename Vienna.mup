@@ -1,0 +1,271 @@
+{
+  "title": "Vienna",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Modules",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Expat info",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Embassy List",
+              "id": 14
+            },
+            "2": {
+              "title": "Cost calculator",
+              "id": 15
+            },
+            "3": {
+              "title": "How to set up",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "On - boarding",
+                  "id": 17,
+                  "ideas": {
+                    "1": {
+                      "title": "Before arriving in Vienna",
+                      "id": 18
+                    },
+                    "2": {
+                      "title": "As soon as you arrive",
+                      "id": 19
+                    },
+                    "3": {
+                      "title": "Anytime during your stay",
+                      "id": 20
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Finding residence",
+                  "id": 22
+                },
+                "3": {
+                  "title": "Registering - Meldezettle",
+                  "id": 23
+                },
+                "4": {
+                  "title": "District list",
+                  "id": 24
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "News",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Sources",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Twitter",
+                  "id": 29
+                },
+                "2": {
+                  "title": "Facebook",
+                  "id": 30
+                },
+                "3": {
+                  "title": "Other published news",
+                  "id": 31,
+                  "ideas": {
+                    "1": {
+                      "title": "der Standard",
+                      "id": 83
+                    },
+                    "2": {
+                      "title": "https://kurier.at",
+                      "id": 85
+                    },
+                    "3": {
+                      "title": "http://www.viennatimes.com/",
+                      "id": 86
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Associated press",
+                  "id": 32
+                },
+                "5": {
+                  "title": "http://www.abyznewslinks.com/austi.htm",
+                  "id": 89
+                },
+                "6": {
+                  "title": "http://www.onlinenewspapers.com/austria.htm",
+                  "id": 90
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Events",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Sources",
+              "id": 36,
+              "ideas": {
+                "1": {
+                  "title": "Twitter",
+                  "id": 37
+                },
+                "2": {
+                  "title": "Facebook",
+                  "id": 38
+                },
+                "3": {
+                  "title": "Event websites",
+                  "id": 39,
+                  "ideas": {
+                    "1": {
+                      "title": "https://events.wien.info/en/",
+                      "id": 41
+                    },
+                    "2": {
+                      "title": "https://www.eventbrite.com/d/austria--vienna/events/",
+                      "id": 43
+                    },
+                    "3": {
+                      "title": "meetup.com",
+                      "id": 46
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Places of interest",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Place",
+              "id": 47
+            },
+            "2": {
+              "title": "Website",
+              "id": 48
+            },
+            "3": {
+              "title": "Special notes e.g. free entry on a specif date or events",
+              "id": 49
+            }
+          }
+        },
+        "5": {
+          "title": "Reviews",
+          "id": 12,
+          "ideas": {}
+        },
+        "6": {
+          "title": "Vienna resources",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "List of references and other sites/blogs",
+              "id": 51
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Project",
+      "id": 53,
+      "ideas": {
+        "1": {
+          "title": "Finalize navigation",
+          "id": 67
+        },
+        "2": {
+          "title": "Layout for individual modules",
+          "id": 68
+        },
+        "3": {
+          "title": "Site name",
+          "id": 69,
+          "ideas": {
+            "1": {
+              "title": "Register domain",
+              "id": 70
+            },
+            "2": {
+              "title": "Twitter",
+              "id": 71
+            },
+            "3": {
+              "title": "Linked in",
+              "id": 72
+            },
+            "4": {
+              "title": "Facebook",
+              "id": 73
+            },
+            "5": {
+              "title": "app on iTunes",
+              "id": 74
+            },
+            "6": {
+              "title": "app on Android",
+              "id": 75
+            }
+          }
+        },
+        "4": {
+          "title": "Vienna image sources",
+          "id": 77,
+          "ideas": {
+            "1": {
+              "title": "Creative common license",
+              "id": 79
+            },
+            "2": {
+              "title": "Public Domain",
+              "id": 80
+            }
+          }
+        },
+        "5": {
+          "title": "blog engine?",
+          "id": 82
+        }
+      }
+    },
+    "-11": {
+      "title": "Fund",
+      "id": 54
+    },
+    "-21": {
+      "title": "Find students who are interested",
+      "id": 55,
+      "ideas": {
+        "1": {
+          "title": "Bali daughters?",
+          "id": 62
+        },
+        "2": {
+          "title": "Sameer's wife?",
+          "id": 63
+        },
+        "1.5": {
+          "title": "Someone we should be able to pay though nominal",
+          "id": 65
+        }
+      }
+    }
+  }
+}
